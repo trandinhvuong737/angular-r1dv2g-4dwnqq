@@ -137,6 +137,20 @@ app-top-bar h1 {
   background-color: #EEEEEE;
 }
 
+app-product-list {
+  width: 100%;
+  min-width: 450px;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 32px;
+  margin-bottom: 8px;
+  border-radius: 2px;
+  background-color: #EEEEEE;
+  margin:auto;
+
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
